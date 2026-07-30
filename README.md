@@ -73,7 +73,7 @@ backend/
 - **E-mail:** gerente@empresa.com
 - **Senha:** Senha@123
 
-⚠️ Troque essa senha assim que possível (editando o próprio cadastro após o login).
+Troque essa senha assim que possível (editando o próprio cadastro após o login).
 
 ## Principais rotas
 
