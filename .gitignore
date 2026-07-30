@@ -1,0 +1,21 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente reais (nunca subir)
+.env
+
+# Banco de dados local (gerado automaticamente ao rodar o projeto)
+*.db
+*.sqlite3
+
+# Configurações do VS Code (opcional manter, aqui deixo ignorado)
+.vscode/
+
+# Sistema operacional
+.DS_Store
